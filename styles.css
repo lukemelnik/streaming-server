@@ -1,0 +1,18 @@
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+body {
+  background-color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+#video {
+  border: 5px solid #7e7e7e;
+  border-radius: 10px;
+}
